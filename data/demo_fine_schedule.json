@@ -1,0 +1,212 @@
+[
+ [
+  "A1",
+  "A - Traffic and parking",
+  "Parking in a no-parking zone or fire lane",
+  400.0,
+  true
+ ],
+ [
+  "A2",
+  "A - Traffic and parking",
+  "Speeding above the port limit of 20 km/h",
+  450.0,
+  true
+ ],
+ [
+  "A3",
+  "A - Traffic and parking",
+  "Reversing in a working area without a banksman",
+  350.0,
+  true
+ ],
+ [
+  "A4",
+  "A - Traffic and parking",
+  "Driving on the quay apron without authorisation",
+  300.0,
+  true
+ ],
+ [
+  "A5",
+  "A - Traffic and parking",
+  "Vehicle without working lights or reflectors",
+  250.0,
+  true
+ ],
+ [
+  "A6",
+  "A - Traffic and parking",
+  "Using a mobile phone while driving",
+  300.0,
+  true
+ ],
+ [
+  "A7",
+  "A - Traffic and parking",
+  "Overloaded or unsecured cargo on a truck",
+  800.0,
+  true
+ ],
+ [
+  "A8",
+  "A - Traffic and parking",
+  "Truck left unattended in a traffic lane",
+  600.0,
+  true
+ ],
+ [
+  "B1",
+  "B - Personal safety and PPE",
+  "No hard hat or reflective vest in an operations area",
+  300.0,
+  false
+ ],
+ [
+  "B2",
+  "B - Personal safety and PPE",
+  "Open shoes or slippers in an operations area",
+  250.0,
+  false
+ ],
+ [
+  "B3",
+  "B - Personal safety and PPE",
+  "Using earphones in an operations area",
+  250.0,
+  false
+ ],
+ [
+  "B4",
+  "B - Personal safety and PPE",
+  "Walking under a suspended load",
+  500.0,
+  false
+ ],
+ [
+  "B5",
+  "B - Personal safety and PPE",
+  "Riding on the outside of moving equipment",
+  500.0,
+  false
+ ],
+ [
+  "B6",
+  "B - Personal safety and PPE",
+  "Smoking in a no-smoking zone",
+  400.0,
+  false
+ ],
+ [
+  "B7",
+  "B - Personal safety and PPE",
+  "Bathing or swimming in the harbour basin",
+  300.0,
+  false
+ ],
+ [
+  "C1",
+  "C - Security and access",
+  "Entering a restricted area without a valid pass",
+  400.0,
+  false
+ ],
+ [
+  "C2",
+  "C - Security and access",
+  "Loitering in a restricted area",
+  200.0,
+  false
+ ],
+ [
+  "C3",
+  "C - Security and access",
+  "Trading or hawking without a permit",
+  150.0,
+  false
+ ],
+ [
+  "C4",
+  "C - Security and access",
+  "Photographing port operations without permission",
+  300.0,
+  false
+ ],
+ [
+  "C5",
+  "C - Security and access",
+  "Lending or altering an access pass",
+  350.0,
+  false
+ ],
+ [
+  "D1",
+  "D - Fire safety and environment",
+  "Blocking a fire hydrant, fire exit or emergency route",
+  700.0,
+  true
+ ],
+ [
+  "D2",
+  "D - Fire safety and environment",
+  "Hot work (welding, cutting) without a permit",
+  1000.0,
+  false
+ ],
+ [
+  "D3",
+  "D - Fire safety and environment",
+  "Refuelling outside a designated area",
+  900.0,
+  true
+ ],
+ [
+  "D4",
+  "D - Fire safety and environment",
+  "Fuel or oil spill not reported",
+  1200.0,
+  false
+ ],
+ [
+  "D5",
+  "D - Fire safety and environment",
+  "Dumping waste inside the port",
+  600.0,
+  false
+ ],
+ [
+  "D6",
+  "D - Fire safety and environment",
+  "Storing flammable goods in an unapproved place",
+  1500.0,
+  false
+ ],
+ [
+  "E1",
+  "E - Cargo and housekeeping",
+  "Cargo abandoned on the quay apron (per day)",
+  1000.0,
+  false
+ ],
+ [
+  "E2",
+  "E - Cargo and housekeeping",
+  "Container left unlocked after inspection",
+  300.0,
+  false
+ ],
+ [
+  "E3",
+  "E - Cargo and housekeeping",
+  "Damage to port property not reported",
+  2000.0,
+  false
+ ],
+ [
+  "OTHER",
+  "Other",
+  "Other offence (describe in notes)",
+  null,
+  false
+ ]
+]
